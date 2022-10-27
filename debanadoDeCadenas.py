@@ -6,3 +6,4 @@ print(cadena[0 : 10]) # Devuelve la cadena desde el índice inicial hasta el fin
 print(cadena[ : 5]) # Devuelve la cadena desde null (0) hasta el índice final.
 print(cadena[5 : ]) # Devuelve la cadena desde el índice dado hasta el final.
 print(cadena[-5]) # Devuelve el caracter indicado pero inicia a contar desde el final.
+print(cadena[-5 : ]) # Devuelve el caracter indicado pero inicia a contar desde el final.
