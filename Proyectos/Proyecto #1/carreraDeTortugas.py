@@ -67,8 +67,5 @@ for i in range(20):
         print("Tu numero es: ", turno2, "\nAvanzas: ", turno2* 20)
         jugador2.pendown()
         jugador2.forward(turno2 * 20)
-
-
-
-
+        
 turtle.done()
