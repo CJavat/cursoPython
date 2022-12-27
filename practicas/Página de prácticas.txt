@@ -1,0 +1,3 @@
+Página de donde saco las prácticas:
+
+https://pythondiario.com/ejercicios-de-programacion-python
